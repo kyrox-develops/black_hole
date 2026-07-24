@@ -1,1 +1,1 @@
-creating black hole in c++ with opengl
+#need to install glad files and glw dependies
